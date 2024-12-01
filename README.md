@@ -1,20 +1,20 @@
 A simple Python script to automate the process of sending personalized birthday emails. This script reads a list of birthdays from a CSV file and sends an email to the appropriate person on their birthday.
 
-Features
+Features    
 • Reads birthday data from a CSV file.
 
 • Personalizes email content using a template text file.
 
 • Automatically sends emails using SMTP.
 
-Requirements
+Requirements    
 • Python 3.x
 
 • pandas
 
 • smtplib
 
-Usage
+Usage    
 Prepare your files:
 
 • birthdays.csv: Should contain the following columns: name, email, month, day.
