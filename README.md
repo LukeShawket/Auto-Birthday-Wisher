@@ -15,16 +15,16 @@ Requirements
 • smtplib
 
 Usage    
-Prepare your files:
+1. Prepare your files:
 
 • birthdays.csv: Should contain the following columns: name, email, month, day.
 
 • wish.txt: A text file containing the email content. Use [NAME] as a placeholder for the recipient's name.
 
-Configure your email credentials:
+2. Configure your email credentials:
 
 • Replace my_mail and my_password with your own email and password.
 
-Run the script:
+3. Run the script:
 
 • The script will automatically send an email to anyone whose birthday is today.
