@@ -1,3 +1,5 @@
+# Birthday Email Sender
+
 A simple Python script to automate the process of sending personalized birthday emails. This script reads a list of birthdays from a CSV file and sends an email to the appropriate person on their birthday.
 
 Features    
